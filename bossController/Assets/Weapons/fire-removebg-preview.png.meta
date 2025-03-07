@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 00a230abe01d4a749a9daf0c5a035719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7846924318125342517
+    second: fire-removebg-preview_0
+  - first:
+      213: -3455611188106600004
+    second: fire-removebg-preview_1
+  - first:
+      213: -5617252855140608094
+    second: fire-removebg-preview_2
+  - first:
+      213: 154819234265805139
+    second: fire-removebg-preview_3
+  - first:
+      213: 3763119298772348108
+    second: fire-removebg-preview_4
+  - first:
+      213: 5536802793674170432
+    second: fire-removebg-preview_5
+  - first:
+      213: 4991688554736181749
+    second: fire-removebg-preview_6
+  - first:
+      213: 5138109604232513257
+    second: fire-removebg-preview_7
+  - first:
+      213: 1346483614455515250
+    second: fire-removebg-preview_8
+  - first:
+      213: -3966165304231700360
+    second: fire-removebg-preview_9
+  - first:
+      213: 7266252453978571388
+    second: fire-removebg-preview_10
+  - first:
+      213: -1033421095314838914
+    second: fire-removebg-preview_11
+  - first:
+      213: 1015373782749999648
+    second: fire-removebg-preview_12
+  - first:
+      213: 7002551500074570530
+    second: fire-removebg-preview_13
+  - first:
+      213: -8126930792974781783
+    second: fire-removebg-preview_14
+  - first:
+      213: 7971631354459210237
+    second: fire-removebg-preview_15
+  - first:
+      213: 9108136480141360326
+    second: fire-removebg-preview_16
+  - first:
+      213: -9099892727673121950
+    second: fire-removebg-preview_17
+  - first:
+      213: 4129534341103625475
+    second: fire-removebg-preview_18
+  - first:
+      213: 2849419632991160273
+    second: fire-removebg-preview_19
+  - first:
+      213: 2774268250240977673
+    second: fire-removebg-preview_20
+  - first:
+      213: 204982748444717708
+    second: fire-removebg-preview_21
+  - first:
+      213: -4913422194314479857
+    second: fire-removebg-preview_22
+  - first:
+      213: -3821414173132178705
+    second: fire-removebg-preview_23
+  - first:
+      213: -9182887690988206265
+    second: fire-removebg-preview_24
+  - first:
+      213: -295190909272988547
+    second: fire-removebg-preview_25
+  - first:
+      213: -6908858168003436393
+    second: fire-removebg-preview_26
+  - first:
+      213: -8921672712395379874
+    second: fire-removebg-preview_27
+  - first:
+      213: 5340623527405173206
+    second: fire-removebg-preview_28
+  - first:
+      213: 1683940364311087047
+    second: fire-removebg-preview_29
+  - first:
+      213: 687145312917907260
+    second: fire-removebg-preview_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 419
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f3c31b710e5ec60800000000000000
+      internalID: 7846924318125342517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 411
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb16a0bdee33b00d0800000000000000
+      internalID: -3455611188106600004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 392
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79bcb2a428b02b0800000000000000
+      internalID: -5617252855140608094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 393
+        width: 155
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351bfc6f547062200800000000000000
+      internalID: 154819234265805139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2eba7019493430800000000000000
+      internalID: 3763119298772348108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040e65c3ecca6dc40800000000000000
+      internalID: 5536802793674170432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1ee6e1b4a064540800000000000000
+      internalID: 4991688554736181749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 348
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e64d41567b3e4740800000000000000
+      internalID: 5138109604232513257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 337
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278418f96bbafa210800000000000000
+      internalID: 1346483614455515250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 338
+        width: 155
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8785ac06ba955f8c0800000000000000
+      internalID: -3966165304231700360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7204bfcb1ae6d460800000000000000
+      internalID: 7266252453978571388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 294
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a2d563dfc88a1f0800000000000000
+      internalID: -1033421095314838914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fe036315571e00800000000000000
+      internalID: 1015373782749999648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 282
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223d25bfc7f0e2160800000000000000
+      internalID: 7002551500074570530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 283
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fd8a8087573f80800000000000000
+      internalID: -8126930792974781783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df148ea3b7ce0ae60800000000000000
+      internalID: 7971631354459210237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 227
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc3a982fd9966e70800000000000000
+      internalID: 9108136480141360326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 227
+        width: 164
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26312e807cfa6b180800000000000000
+      internalID: -9099892727673121950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3052241aa9d0f4930800000000000000
+      internalID: 4129534341103625475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 230
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d746703f0c2b8720800000000000000
+      internalID: 2849419632991160273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b024f564e208620800000000000000
+      internalID: 2774268250240977673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82712249be38d200800000000000000
+      internalID: 204982748444717708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 173
+        width: 116
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f077d54fb8400dbb0800000000000000
+      internalID: -4913422194314479857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 169
+        width: 166
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea30d66e0c97fac0800000000000000
+      internalID: -3821414173132178705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747475e4c44df8080800000000000000
+      internalID: -9182887690988206265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74ebd79e6547ebf0800000000000000
+      internalID: -295190909272988547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 117
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906994d91ece10a0800000000000000
+      internalID: -6908858168003436393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 113
+        width: 163
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba067efe9df2480800000000000000
+      internalID: -8921672712395379874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 59
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d934166dc4bd1a40800000000000000
+      internalID: 5340623527405173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 60
+        width: 155
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c744b5e6de8e5710800000000000000
+      internalID: 1683940364311087047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 59
+        width: 159
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37eb8d750b398900800000000000000
+      internalID: 687145312917907260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

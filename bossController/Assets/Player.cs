@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     public bool isFacingRight = true;
     public string comingAnimation = "";
     public string currentAnimation = "Idle";
+    public bool canShoot = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -82,6 +83,9 @@ public class Player : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "PlayerFire":
+                ChangeAnimation("PlayerFire");
+                break;
             case "PlayerJump":
 
                 ChangeAnimation("PlayerJump", 0.2f);
@@ -97,7 +101,9 @@ public class Player : MonoBehaviour
             case "PlayerIdle":
                 ChangeAnimation("PlayerIdle", 0.2f);
                 break;
-
+            //default:
+            //    ChangeAnimation("PlayerIdle");
+            //    break;
         }
     }
 }
