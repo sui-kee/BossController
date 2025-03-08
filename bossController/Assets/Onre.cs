@@ -4,7 +4,7 @@ using UnityEngine;
 public class Onre : MonoBehaviour
 {
     [SerializeField] private Animator animator;
-    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] public Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     public bool isFacingRight = true;

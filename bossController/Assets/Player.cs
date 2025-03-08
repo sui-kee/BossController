@@ -1,8 +1,9 @@
+using System.Collections;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] public Rigidbody2D rb;
     [SerializeField] private Animator animator;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -15,6 +16,7 @@ public class Player : MonoBehaviour
     public string comingAnimation = "";
     public string currentAnimation = "Idle";
     public bool canShoot = true;
+    public bool rangeMode = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,14 +27,21 @@ public class Player : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+        if(Input.GetKey(KeyCode.R) && !rangeMode && !IsGrounded())
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump_power);
+            StartCoroutine(PlayerRange());
         }
-        rb.linearVelocity = new Vector2(horizontal * run_speed, rb.linearVelocity.y);
-        Flip();
+        if(!rangeMode )
+        {
+            if (Input.GetButtonDown("Jump") && IsGrounded())
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump_power);
+            }
+            PlayerMovementDetector();// for changing basic player animation run,idle,jump
+            Flip();
+        }
         PlayerAnimatorController();// for controlling player animation
-        PlayerMovementDetector();// for changing basic player animation run,idle,jump
+        rb.linearVelocity = new Vector2(horizontal * run_speed, rb.linearVelocity.y);
     }
 
     private void Flip()
@@ -45,6 +54,26 @@ public class Player : MonoBehaviour
             //transform.localScale = localScale;
             transform.Rotate(0f, 180f, 0f);
         }
+    }
+
+    public void NormalFlip()
+    {
+            isFacingRight = !isFacingRight;
+            //Vector3 localScale = transform.localScale;
+            //localScale.x *= -1f;
+            //transform.localScale = localScale;
+            transform.Rotate(0f, 180f, 0f);
+    }
+
+    private IEnumerator PlayerRange()
+    {
+        rangeMode = true;
+        rb.gravityScale = 0f;
+        rb.linearVelocity = new Vector2(0f, 0f);
+        comingAnimation = "PlayerRIdle";
+        yield return new WaitForSeconds(10f);
+        //rb.gravityScale = 1f;
+        //rangeMode = false;
     }
     private bool IsGrounded()
     {
@@ -83,6 +112,12 @@ public class Player : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "PlayerRIdle":
+                ChangeAnimation("PlayerRIdle");
+                break;
+            case "PlayerExplode":
+                ChangeAnimation("PlayerExplode");
+                break;
             case "PlayerFire":
                 ChangeAnimation("PlayerFire");
                 break;

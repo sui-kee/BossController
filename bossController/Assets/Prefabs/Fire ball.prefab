@@ -126,6 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 82799672967405784}
+  animator: {fileID: 6763164131677912199}
   arrowSpeed: 5
   isReturn: 0
 --- !u!50 &82799672967405784
